@@ -1,7 +1,7 @@
 ### Hello World🌎, i am Pedro Vinicius.👋👋 
 
 - 🔭 Hoje trabalho com back-end.
-- 🌱 No momento estou estudando JAVA e Spring, tenho interesse em aprender font-end então sempre que possivel me "arrisco" com javascript. 
+- 🌱 No momento estou estudando JAVA e Spring, tenho interesse em aprender font-end então sempre que possivel dou uma brincada com javascript. 
 - 📫 pedroviniciuscorsino@gmail.com
 - 💼 https://www.linkedin.com/in/pedrovcorsino/
 - 😄 Pronouns: ele/dele
