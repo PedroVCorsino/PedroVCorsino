@@ -1,9 +1,7 @@
-## Hi there 🌎, i am Pedro Vinicius.👋👋 
+## Hello there 🌎, i am Pedro Vinicius.👋👋 
 
-- 🖥️ Hoje trabalho com back-end.
 - 📫 pedroviniciuscorsino@gmail.com
 - 💼 https://www.linkedin.com/in/pedrovcorsino/
-- 😄 Pronouns: ele/dele
 
 ## Stats
 
