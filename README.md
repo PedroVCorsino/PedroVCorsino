@@ -1,7 +1,6 @@
 ## Hi there 🌎, i am Pedro Vinicius.👋👋 
 
-- 🔭 Hoje trabalho com back-end.
-- 🌱 No momento estou estudando JAVA e Spring, tenho interesse em aprender front-end então sempre que possivel dou uma brincada com javascript. 
+- 🖥️ Hoje trabalho com back-end.
 - 📫 pedroviniciuscorsino@gmail.com
 - 💼 https://www.linkedin.com/in/pedrovcorsino/
 - 😄 Pronouns: ele/dele
@@ -17,7 +16,7 @@
   </a>
 </div>
 
-## My stack
+## My stack   :toolbox:  
 ### Languages :keyboard: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -46,7 +45,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Other Tools :tools: 
+### Other Tools :gear: 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -61,7 +60,7 @@
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
 
-### Currently Learning :nerd: 
+### Currently Learning :pencil: 
 ![Springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
